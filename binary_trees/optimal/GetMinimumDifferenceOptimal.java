@@ -7,7 +7,7 @@ package dsa.binary_trees.optimal;
 //              track prev pointer, compute curr-prev at each node
 // Time: O(n), Space: O(h) call stack
 
-public class getMinimumDifferenceOptimal {
+public class GetMinimumDifferenceOptimal {
 
     static class TreeNode {
         int val;
